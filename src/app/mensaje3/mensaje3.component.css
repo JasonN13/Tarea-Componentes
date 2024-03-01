@@ -1,0 +1,9 @@
+.fondo-opaco{
+    background-color: blanchedalmond;
+}
+
+.contorno{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 4px;
+}
