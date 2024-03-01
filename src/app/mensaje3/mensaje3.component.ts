@@ -11,7 +11,7 @@ export class Mensaje3Component {
   TextoInicial = 'Este es un componente Terciario'
   Imagen 
   constructor(){
-    this.Imagen=`https://picsum.photos/id/${getRandomInt(300)}/300/200.webp`
+    this.Imagen=`https://picsum.photos/id/${getRandomInt(300)}/500/300.webp`
   }
 }
 

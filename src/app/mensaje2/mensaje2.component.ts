@@ -11,7 +11,7 @@ export class Mensaje2Component {
   TextoInicial = 'Este es un componente Secundario'
   Imagen 
   constructor(){
-    this.Imagen=`https://picsum.photos/id/${getRandomInt(300)}/300/200/?blur`
+    this.Imagen=`https://picsum.photos/id/${getRandomInt(300)}/500/400/?blur`
   }
 }
 
